@@ -127,7 +127,7 @@
                 ],
                 "metrics": [
                     {
-                        "category": "Health",
+                        "category": "AllMetrics",
                         "enabled": true
                     }
                 ]
